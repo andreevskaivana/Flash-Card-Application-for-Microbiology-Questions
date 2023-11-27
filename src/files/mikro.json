@@ -1,0 +1,277 @@
+[
+        {
+          "id": 1,
+          "question": "1. Која од наведениве не предизвикува алиментарни интоксикации/токсоинфекции?",
+          "options": [
+            "• Staphylococcus aureus",
+            "• Clostridium botulinum",
+            "• Acinetobacter baumanii",
+            "• Salmonella enteritidis"
+          ],
+          "correct_answer": "• Acinetobacter baumanii"
+        },
+        {
+          "id": 2,
+          "question": "2. Предизвикувач на Pelvic Inflammatory Disease (PID) е:",
+          "options": [
+            "• Chlamydia trachomatis",
+            "• Haemophilus ducreyi",
+            "• Treponema pallodum",
+            "• Neisseria meningitidis"
+          ],
+          "correct_answer": "• Chlamydia trachomatis"
+        },
+        {
+          "id": 3,
+          "question": "3. Опиши ја микроскопската морфологија на родот Actinomyces!",
+          "options": [
+            "• Gram позитивни бацили + филаменти",
+            "• Gram позитивни коки со капсула",
+            "• Gram негативни коки + спори",
+            "• Gram позитивни бацили + спори"
+          ],
+          "correct_answer": "• Gram позитивни бацили + филаменти"
+        },
+        {
+          "id": 4,
+          "question": "4. Наброј две клинички форми на актиномикоза!",
+          "options": [
+            "• Цервикофацијална + урогенитална",
+            "• Абдоминална + мегаколон",
+            "• Мегамицетом + цервикофацијална",
+            "• Цервикофацијална + трахом"
+          ],
+          "correct_answer": "• Цервикофацијална + урогенитална"
+        },
+        {
+          "id": 5,
+          "question": "5. Слузавите колонии на Pseudomonas aeruginosa имаат:",
+          "options": [
+            "• Егзополисахаридна обвивка",
+            "• М-протеин",
+            "• Полисахаридна капсула",
+            "• D-глутаминска капсула"
+          ],
+          "correct_answer": "• Егзополисахаридна обвивка"
+        },
+        {
+          "id": 6,
+          "question": "6. Скарлантината се должи на:",
+          "options": [
+            "• Стрептолизинот",
+            "• Dick-овиот токсин",
+            "• Антигеноста на Streptococcus pyogenes",
+            "• β-хемолизинот"
+          ],
+          "correct_answer": "• Dick-овиот токсин"
+        },
+        {
+          "id": 7,
+          "question": "7. Кои од наведените колонии продуцирраат пигмент на култури:",
+          "options": [
+            "• Proteus vulgaris + Haemophilus influenzae",
+            "• Pseudomonas aeruginosa + Staphylococcus aureus",
+            "• Acinetobacter baumanii + Escherihia coli",
+            "• Acinetobacter baumanii + Pseudomonas aeruginosa"
+          ],
+          "correct_answer": "• Pseudomonas aeruginosa + Staphylococcus aureus"
+        },
+        {
+          "id": 8,
+          "question": "8. Кои две бактерии предизвикуваат венерични болести?",
+          "options": [
+            "• Pseudomonas aeruginosa + Treponema pallidum",
+            "• Haemophilus ducreyi + Treponema vincenti",
+            "• Treponema pallidum + Neisseria gonorhoae",
+            "• Streptococcus pyogenes + Neisseria meningitidis"
+          ],
+          "correct_answer": "• Treponema pallidum + Neisseria gonorhoae"
+        },
+        {
+          "id": 9,
+          "question": "9. Кои микроорганизми се класифицирани помеѓу бактерии и фунги:",
+          "options": [
+            "• Vibrio + Nocardia",
+            "• Nocardia + Actinomyces",
+            "• Rickettsia + Actinomyces",
+            "• Chlamydia + Rickettsia"
+          ],
+          "correct_answer": "• Nocardia + Actinomyces"
+        },
+        {
+          "id": 10,
+          "question": "10. Кои болести спаѓаат во автоимуни заболувања по прележана бактериска инфекција со Streptococcus pyogenes:",
+          "options": [
+            "• Акутен гломерулонефрит + скарлантина",
+            "• Скарлантина + еризипел",
+            "• Ревматска треска + акутен гломерулонефрит",
+            "• Ревматска треска + гнојна ангина"
+          ],
+          "correct_answer": "• Ревматска треска + акутен гломерулонефрит"
+        },
+        {
+          "id": 11,
+          "question": "11. Која од наведените бактерии предизвикува пневмонија:",
+          "options": [
+            "• Salmonella enteritidis",
+            "• Bacteroides fragilis",
+            "• Shigella shigae",
+            "• Streptococcus pneumoniaе"
+          ],
+          "correct_answer": "• Streptococcus pneumoniaе"
+        },
+        {
+          "id": 12,
+          "question": "12. Кои два бактериски вида се патогени при парентерален внес?",
+          "options": [
+            "• Clostriduium tetani + Clostridium perfringens",
+            "• Costridium botulinum + Clostridium perfringens",
+            "• Bacillus anthracis + Salmonella enteritidis",
+            "• Shigella shigae + Clostrdium botulinum"
+          ],
+          "correct_answer": "• Bacillus anthracis + Salmonella enteritidis"
+        },
+        {
+          "id": 13,
+          "question": "13. Кој микроорганизам е најзастапен во вагиналната флора и како таа ја штити вагината од инфекции?",
+          "options": [
+            "• Neisseria gonorhoae + висока атхерентност на слузнивцата",
+            "• Streptococcus agalactiae + компетиција за храна",
+            "• Lactobacillus complex + кисел pH",
+            "• Candida albicans + алкален pH"
+          ],
+          "correct_answer": "• Lactobacillus complex + кисел pH"
+        },
+        {
+          "id": 14,
+          "question": "14. Кои две бактерии остваруваат патоген ефект во усната шуплина со симбиотско дејство?",
+          "options": [
+            "• Leptospira interrogans + Treponema pallidum",
+            "• Streptococcus mutans + Actinomyces odontoliticus",
+            "• Borrelia burgdorferi + Streptococcus mutans",
+            "• Borellia vincenti + Borrelia recurrentis"
+          ],
+          "correct_answer": "• Streptococcus mutans + Actinomyces odontoliticus"
+        },
+        {
+          "id": 15,
+          "question": "15. Кои од наведените бактерии излачуваат егзотоксини?",
+          "options": [
+            "• Salmonella spp. + Corynebacterium diphteriae",
+            "• Salmonella spp. + Haemophilus influenzae",
+            "• Haemophilus influenzae + Clostridium perfringens",
+            "• Clostridium tetani + Clostridium botulinum"
+          ],
+          "correct_answer": "• Clostridium tetani + Clostridium botulinum"
+        },
+        {
+          "id": 16,
+          "question": "16. Кој од наведените може да преживее во киселиот желудочен pH:",
+          "options": [
+            "• Helicobacter pylori",
+            "• Campylobacter jejuni",
+            "• Neisseria meningitides",
+            "• Escherihia coli"
+          ],
+          "correct_answer": "• Helicobacter pylori"
+        },
+        {
+          "id": 17,
+          "question": "17. Кои од бактериите се значајни предизвикувачи на менингитис особено кај деца:",
+          "options": [
+            "• Streptococcus pneumoniae + Haemophilus influenzae",
+            "• Streptococcus pyogenes + Staphylococcus aureus",
+            "• Neisseria meningitides + Chlamydia trachomatis",
+            "• Streptococcus pneumoniae + Klebsiella pneumonia"
+          ],
+          "correct_answer": "• Streptococcus pneumoniae + Haemophilus influenzae"
+        },
+        {
+          "id": 18,
+          "question": "18. Бациларната дизентерија е локализирана во:",
+          "options": [
+            "• Тенкото црево",
+            "• Белиот дроб",
+            "• Дебелото црево",
+            "• Црниот дроб"
+          ],
+          "correct_answer": "• Дебелото црево"
+        },
+        {
+          "id": 19,
+          "question": "19. Опиши го изгледот на колониите на Bacillus subtilis и како се нарекува тој изглед?",
+          "options": [
+            "• Рапави α-хемолитични + caput medusae",
+            "• Рапави β-хемолитични + caput medusae",
+            "• Рапаци γ-хемолитични + „јајце на око“",
+            "• Мазни хемолитични + спајдер колонии"
+          ],
+          "correct_answer": "• Рапави α-хемолитични + caput medusae"
+        },
+        {
+          "id": 20,
+          "question": "20. Кое сексуално преносливо заболување е предизвикано од Neisseria gonrohoae?",
+          "options": [
+            "• Сифилис",
+            "• Трипер",
+            "• Lymphogranuloma venerum",
+            "• Ulcus molle"
+          ],
+          "correct_answer": "• Трипер"
+        },
+        {
+          "id": 21,
+          "question": "21. Што од наведеното не е типична инфекција за Staphylococcus aureus:",
+          "options": [
+            "• Карбункул",
+            "• Луес",
+            "• Фурункул",
+            "• Абсцес"
+          ],
+          "correct_answer": "• Луес"
+        },
+        {
+          "id": 22,
+          "question": "22. Кои заболувања се асоцирани со Clostridium difficile?",
+          "options": [
+            "• Ентероколитис + циститис",
+            "• Мегаколон + хепатоспленомегалија",
+            "• Постантибиотски дијареи + илеус",
+            "• Псеудомембранозен колитис + мегаколон"
+          ],
+          "correct_answer": "• Псеудомембранозен колитис + мегаколон"
+        },
+        {
+          "id": 23,
+          "question": "23. Која од наведените ентеробактерии е стриктно патогена во дигестивниот тракт:",
+          "options": [
+            "• Serratia marcesccens",
+            "• Yersinia enterocolitica",
+            "• Klebsiella aerogenes",
+            "• Proteus mirabilis"
+          ],
+          "correct_answer": "• Yersinia enterocolitica"
+        },
+        {
+          "id": 24,
+          "question": "24. Капсулата е составен дел на две од наведените бактерии:",
+          "options": [
+            "• Bacillus anthracis + Streptococcus pyogenes",
+            "• Neisseria gonorhoae + Streptococcus pneumoniae",
+            "• Bacillus anthracis + Neisseria gonorhoae",
+            "• Bacillus anthracis + Klebsiella pneumoniae"
+          ],
+          "correct_answer": "• Bacillus anthracis + Klebsiella pneumoniae"
+        },
+        {
+          "id": 25,
+          "question": "25. Која од наведената форма на антракс е најмалигна за човекот:",
+          "options": [
+            "• Антраксна сепса + белодробен антракс",
+            "• Кожен + септична",
+            "• Абдоминален + кожна",
+            "• Белодробен + кожна"
+          ],
+          "correct_answer": "• Антраксна сепса + белодробен антракс"
+        }
+  ]
